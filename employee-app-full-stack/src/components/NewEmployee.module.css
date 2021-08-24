@@ -1,0 +1,26 @@
+.submit{
+    border: 1px solid gray;
+    background-color: blue;
+    padding: 0.5rem;
+    width: 5rem;
+    margin:2rem;
+    color: white;
+
+}
+
+.submit:hover{
+    background-color: aqua;
+}
+
+.cancel{
+    border: 1px solid gray;
+    background-color: red;
+    padding: 0.5rem;
+    width: 5rem;
+    margin:2rem auto;
+    color: white;
+}
+
+.cancel:hover{
+    background-color: lightcoral;
+}
