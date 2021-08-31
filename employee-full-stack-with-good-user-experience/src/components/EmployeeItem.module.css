@@ -1,0 +1,28 @@
+.tableRow{
+    text-align: center;
+    
+}
+
+.delete{
+    background-color: red;
+    color: white;
+}
+
+.update{
+    background-color: blue;
+    color: white;
+    border: 1px solid gray;
+    padding: 0.4rem;
+    margin-right: 1rem;
+}
+
+.update:hover{
+    background-color: aqua;
+    text-decoration: none;
+}
+
+.delete:hover{
+    background-color:lightcoral;
+    text-decoration: none;
+}
+
